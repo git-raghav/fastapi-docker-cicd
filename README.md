@@ -159,7 +159,8 @@ git push -u origin main
    ```
 
 ## 🔗 Links
-[GitHub Repository](https://github.com/git-raghav/fastapi-docker-cicd.git)
+[GitHub Repository](https://github.com/git-raghav/fastapi-docker-cicd.git)  
 [Docker Hub Image](https://hub.docker.com/repository/docker/raghavcodes/fastapi-app/general)
+
 
 This documentation provides a complete guide for setting up and deploying a Dockerized FastAPI application with Continuous Delivery using GitHub Actions. 🎯
